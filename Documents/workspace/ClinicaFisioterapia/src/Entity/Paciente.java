@@ -1,6 +1,6 @@
 package Entity;
 
-import java.util.Date;
+
 
 public class Paciente {
 	private String nome;
