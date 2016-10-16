@@ -1,0 +1,8 @@
+package ValueObject;
+
+public class OpcoesMenu {
+	
+	public static final String CADASTRAR_NOVO_FUNCIONARIO = "Cadastrar funcionario";
+	public static final String CADASTRAR_NOVO_FUNCIONARIO = "Cadastrar funcionario";
+
+}

@@ -1,0 +1,7 @@
+package ValueObject;
+
+public class OpcoesMenu {
+	
+	public static final String CADASTRAR_NOVO_FUNCIONARIO = "";
+
+}
